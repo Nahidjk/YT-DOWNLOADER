@@ -2,7 +2,7 @@ const Telegraf = require("telegraf");
 const ytdl = require("ytdl-core");
 require("dotenv").config();
 
-const token = process.env.TELEGRAM_BOT_TOKEN;
+const token = process.env.6389794459:AAH36iSfdETagGmfSU9ux39g0NvMow8lqxI;
 const bot = new Telegraf(token);
 var videoChunkList = [];
 var formatOptions = [];
